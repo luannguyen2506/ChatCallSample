@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="multimediaOptions_without_price_text">
+        <item>Location</item>
+        <item>Camera</item>
+        <item>File</item>
+        <item>Audio</item>
+        <item>Video</item>
+        <item>Contact</item>
+    </string-array>
+
+    <string-array name="multimediaOptionIcons_without_price">
+        <item>&#xf041;</item>
+        <item>&#xf030;</item>
+        <item>&#xf0c6;</item>
+        <item>&#xf130;</item>
+        <item>&#xf03d;</item>
+        <item>&#xf007;</item>
+    </string-array>
+
+</resources>
